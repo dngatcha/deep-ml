@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-04T17:33:34.900Z",
+  "items": {
+    "lab:13": {
+      "kind": "lab",
+      "id": "13",
+      "title": "PyTorch: Build a Complete Training Loop",
+      "difficulty": "easy",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/13",
+      "path": "labs/0013-pytorch-build-a-complete-training-loop",
+      "first_solved_at": "2026-10-04T17:33:31.238Z",
+      "last_pushed_at": "2026-10-04T17:33:31.238Z",
+      "language": "python",
+      "lines": 105
+    }
+  }
+}
