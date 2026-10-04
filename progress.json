@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:39:25.351Z",
+  "generated_at": "2026-10-04T17:40:39.914Z",
   "items": {
     "lab:13": {
       "kind": "lab",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/labs/13",
       "path": "labs/0013-pytorch-build-a-complete-training-loop",
       "first_solved_at": "2026-10-04T17:33:31.238Z",
-      "last_pushed_at": "2026-10-04T17:39:25.488Z",
+      "last_pushed_at": "2026-10-04T17:40:39.983Z",
       "language": "python",
       "lines": 106
     }
