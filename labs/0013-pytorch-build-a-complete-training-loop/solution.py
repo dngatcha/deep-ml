@@ -52,8 +52,7 @@ def train_model(model, X_train, y_train, X_val, y_val, epochs, batch_size, lr):
     
     history = []
 
-    # optimizer = optim.AdamW(model.parameters(), lr=lr)
-    optimizer = optim.SGD(model.parameters(), lr=lr, momentum=0.1)
+    optimizer = optim.AdamW(model.parameters(), lr=lr, betas=(0.95, 0.999), weight_decay=0.0)
     criterion = nn.CrossEntropyLoss()
     n = X_train.shape[0]
     n_eval = X_val.shape[0]
